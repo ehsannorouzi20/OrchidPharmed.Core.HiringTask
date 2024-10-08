@@ -1,5 +1,5 @@
-# OrchidPharmed.HiringTask ASP.NET Core WebApi Sample with Versioning & Swagger
-In this repository I want to give a plain about OrchidPharmed Hiring Task has implemented with ASP.NET Core.
+# OrchidPharmed.HiringTask ASP.NET Core WebApi with Versioning & Swagger
+In this repository I want to give a plain about OrchidPharmed Hiring Task has implemented with ASP.NET Core WebApi.
 
 This repository contains a controller which is dealing with Projects. You can GET/POST/PUT and DELETE them.
 
